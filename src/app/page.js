@@ -7,6 +7,7 @@ export default function Home() {
       Hello
 
       <h1>test from pc</h1>
+      <h2>test from termux</h2>
     </main>
 
   )
